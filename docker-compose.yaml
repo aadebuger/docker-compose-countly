@@ -1,10 +1,10 @@
-on: '2'
+version: '2'
 services:
 
 
 
 
- countly:
+ countlyio:
     image: countly
 
     ports:
